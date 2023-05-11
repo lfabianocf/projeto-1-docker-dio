@@ -3,7 +3,7 @@
 
 ## Formação Docker Fundamentals
 
-Objetivo de criar um continer Apache para executar uma 
+Objetivo de criar um container Apache para executar uma 
 aplicação web. 
 Meu ambiente para estudo da formação Docker:
   Windows 10 Pro
